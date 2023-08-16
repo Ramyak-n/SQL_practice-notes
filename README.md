@@ -1,1 +1,1 @@
-# SQL_practice-notes
+# SQL
